@@ -1,0 +1,254 @@
+[
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.032051168382167816,
+    "solution_hashes": [
+      "20077ffa",
+      "5db6eb7e",
+      "15df3348",
+      "e97804dd",
+      "554ab9d8"
+    ],
+    "solution_lengths": [
+      1474,
+      1381,
+      1432,
+      1374,
+      1503
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.019020026549696922,
+    "solution_hashes": [
+      "614a3151",
+      "0b213d69",
+      "c2b694de",
+      "80ce9633",
+      "b304bd86"
+    ],
+    "solution_lengths": [
+      1432,
+      1316,
+      1423,
+      1390,
+      1432
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.019653791561722755,
+    "solution_hashes": [
+      "26011156",
+      "5da5d75e",
+      "8d0503bd",
+      "bda51447",
+      "ffef4478"
+    ],
+    "solution_lengths": [
+      1428,
+      1434,
+      1615,
+      1293,
+      1365
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.20865297317504883,
+    "solution_hashes": [
+      "0f38f423",
+      "846e1818",
+      "1a8545b0",
+      "173e8d20",
+      "7aab0414"
+    ],
+    "solution_lengths": [
+      1315,
+      585,
+      1308,
+      566,
+      1486
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.21552789211273193,
+    "solution_hashes": [
+      "57d53c57",
+      "082e4513",
+      "2cc9334d",
+      "ab45c095",
+      "c5a0c329"
+    ],
+    "solution_lengths": [
+      1371,
+      519,
+      1298,
+      737,
+      1404
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.21752119064331055,
+    "solution_hashes": [
+      "1d276770",
+      "2554cadb",
+      "128b37d1",
+      "8289c3d5",
+      "805d80ea"
+    ],
+    "solution_lengths": [
+      1356,
+      482,
+      1403,
+      664,
+      1437
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.14092105627059937,
+    "solution_hashes": [
+      "bb691a35",
+      "177f50fa",
+      "3fa796a5",
+      "efb3d6ab",
+      "0021fbdb"
+    ],
+    "solution_lengths": [
+      1647,
+      745,
+      574,
+      598,
+      657
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.16341343522071838,
+    "solution_hashes": [
+      "cb76ee24",
+      "4cf49363",
+      "92757a9a",
+      "9390bc35",
+      "a87e22ae"
+    ],
+    "solution_lengths": [
+      1287,
+      548,
+      433,
+      555,
+      565
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.17944924533367157,
+    "solution_hashes": [
+      "356778d3",
+      "18323b42",
+      "65b1601c",
+      "9cd1cd26",
+      "9b6dac43"
+    ],
+    "solution_lengths": [
+      1241,
+      580,
+      572,
+      767,
+      513
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.28220558166503906,
+    "solution_hashes": [
+      "d585e3ac",
+      "77d334e4",
+      "6dbf14f7",
+      "8277f7e9",
+      "eef6dde6"
+    ],
+    "solution_lengths": [
+      1376,
+      650,
+      651,
+      1664,
+      738
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.2558513879776001,
+    "solution_hashes": [
+      "87ddc4ef",
+      "842c90ed",
+      "56a6d2c1",
+      "23e71b8e",
+      "ed81fbec"
+    ],
+    "solution_lengths": [
+      1390,
+      794,
+      906,
+      1896,
+      918
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.26149386167526245,
+    "solution_hashes": [
+      "4ab3cc07",
+      "5810c7f5",
+      "081bfe36",
+      "b6f165a1",
+      "11166794"
+    ],
+    "solution_lengths": [
+      1422,
+      503,
+      1769,
+      985,
+      958
+    ]
+  }
+]

@@ -1,0 +1,1682 @@
+[
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.01787017658352852,
+    "solution_hashes": [
+      "c3e1e63f",
+      "0e29f62f",
+      "5af180ed",
+      "a2764d06",
+      "8b38bd91"
+    ],
+    "solution_lengths": [
+      1471,
+      1326,
+      1378,
+      1383,
+      1415
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.024618441238999367,
+    "solution_hashes": [
+      "57d40c59",
+      "f4c1f836",
+      "a602b247",
+      "51a6cfd1",
+      "295e085b"
+    ],
+    "solution_lengths": [
+      1417,
+      1366,
+      1383,
+      1503,
+      1424
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.021120578050613403,
+    "solution_hashes": [
+      "890c9776",
+      "256aa81b",
+      "af02d746",
+      "87c4375d",
+      "fbe53b52"
+    ],
+    "solution_lengths": [
+      1560,
+      1480,
+      1389,
+      1281,
+      1489
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.02598273754119873,
+    "solution_hashes": [
+      "a7f2eb82",
+      "c8d609e0",
+      "df32984a",
+      "def9b8d5",
+      "a444233f"
+    ],
+    "solution_lengths": [
+      1299,
+      1362,
+      1500,
+      1403,
+      1482
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.039632827043533325,
+    "solution_hashes": [
+      "89d8788c",
+      "61626559",
+      "7f6048b0",
+      "192dc485",
+      "680dda2b"
+    ],
+    "solution_lengths": [
+      1498,
+      1433,
+      1543,
+      1366,
+      1300
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.011588746681809425,
+    "solution_hashes": [
+      "ca7d4305",
+      "71b9f740",
+      "212154a1",
+      "9a047a11",
+      "27d6c2bf"
+    ],
+    "solution_lengths": [
+      1634,
+      1592,
+      1440,
+      1450,
+      1478
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.03697149083018303,
+    "solution_hashes": [
+      "b1d380dc",
+      "dc0ca4ff",
+      "eaa408c7",
+      "4c712f27",
+      "dae7e682"
+    ],
+    "solution_lengths": [
+      1473,
+      1357,
+      1431,
+      1527,
+      1494
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.03961462527513504,
+    "solution_hashes": [
+      "020ee90a",
+      "d2018b14",
+      "4bc528a1",
+      "884973bb",
+      "cc7f6f1e"
+    ],
+    "solution_lengths": [
+      1504,
+      1431,
+      1473,
+      1578,
+      1303
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.020475655794143677,
+    "solution_hashes": [
+      "12005ecf",
+      "5dff1e2b",
+      "98f2e02c",
+      "db96f2a9",
+      "b068abe4"
+    ],
+    "solution_lengths": [
+      1367,
+      1459,
+      1323,
+      1389,
+      1364
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "none",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.026103174313902855,
+    "solution_hashes": [
+      "50ed9b56",
+      "1f27ada8",
+      "18c0c97f",
+      "b4ec56b0",
+      "0b6404d0"
+    ],
+    "solution_lengths": [
+      1495,
+      1521,
+      1603,
+      1408,
+      1323
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.22458390891551971,
+    "solution_hashes": [
+      "6b731472",
+      "99dfcb8d",
+      "ccb38954",
+      "b4f98a75",
+      "c8b7b9da"
+    ],
+    "solution_lengths": [
+      1405,
+      603,
+      1425,
+      742,
+      1162
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.20200634002685547,
+    "solution_hashes": [
+      "6596e022",
+      "19ba05b8",
+      "1294c80d",
+      "c70f6d8b",
+      "ded8c85d"
+    ],
+    "solution_lengths": [
+      1467,
+      622,
+      1602,
+      613,
+      1427
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.19337806105613708,
+    "solution_hashes": [
+      "2136e682",
+      "269b87a9",
+      "7e3d897a",
+      "4cb32b57",
+      "9baf718d"
+    ],
+    "solution_lengths": [
+      1397,
+      509,
+      1467,
+      532,
+      1463
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.21670296788215637,
+    "solution_hashes": [
+      "9bcc66fa",
+      "5992425f",
+      "ca571f1e",
+      "0dfcfcfe",
+      "b5f760da"
+    ],
+    "solution_lengths": [
+      1410,
+      458,
+      1268,
+      553,
+      1344
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.20329156517982483,
+    "solution_hashes": [
+      "105791e6",
+      "1b1a5fb7",
+      "8ddde09d",
+      "e3d4e1fc",
+      "2d1616ce"
+    ],
+    "solution_lengths": [
+      1304,
+      532,
+      1379,
+      528,
+      1303
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.23280587792396545,
+    "solution_hashes": [
+      "35d72067",
+      "65c7f536",
+      "6e7d9dcb",
+      "fec11fde",
+      "6ac63b59"
+    ],
+    "solution_lengths": [
+      1419,
+      815,
+      1393,
+      767,
+      1083
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.21362535655498505,
+    "solution_hashes": [
+      "e6d0f5ce",
+      "1dddd8cf",
+      "4260a543",
+      "ac034375",
+      "11d8a6e3"
+    ],
+    "solution_lengths": [
+      1399,
+      553,
+      1424,
+      521,
+      1357
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.18452313542366028,
+    "solution_hashes": [
+      "5e1207ff",
+      "00a54ae0",
+      "68bb1300",
+      "f755816b",
+      "fc5c5c7d"
+    ],
+    "solution_lengths": [
+      1468,
+      651,
+      1452,
+      732,
+      1453
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.21614399552345276,
+    "solution_hashes": [
+      "3e7b8d85",
+      "846962d1",
+      "bb3e53f4",
+      "b93e59cf",
+      "52dd0bd6"
+    ],
+    "solution_lengths": [
+      1391,
+      723,
+      1355,
+      469,
+      1229
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "ring",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.18620789051055908,
+    "solution_hashes": [
+      "8e266fc4",
+      "619f4f61",
+      "80bdfea9",
+      "a7e0fc91",
+      "97f13597"
+    ],
+    "solution_lengths": [
+      1405,
+      518,
+      1574,
+      639,
+      1351
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.13599881529808044,
+    "solution_hashes": [
+      "73da2eb6",
+      "b55a743d",
+      "39593906",
+      "0d2115ce",
+      "f458a0dc"
+    ],
+    "solution_lengths": [
+      1451,
+      572,
+      564,
+      520,
+      700
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.1287897676229477,
+    "solution_hashes": [
+      "a20af162",
+      "9b14790d",
+      "4eda8260",
+      "840c7eed",
+      "c43c533b"
+    ],
+    "solution_lengths": [
+      1422,
+      468,
+      506,
+      524,
+      507
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.16110365092754364,
+    "solution_hashes": [
+      "f344f6da",
+      "727402fb",
+      "360d7841",
+      "c922f527",
+      "31521cb2"
+    ],
+    "solution_lengths": [
+      1373,
+      561,
+      854,
+      515,
+      518
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.1466396600008011,
+    "solution_hashes": [
+      "1f6252f6",
+      "f572d620",
+      "8b038d84",
+      "ca1b8561",
+      "c2326bfe"
+    ],
+    "solution_lengths": [
+      1512,
+      554,
+      639,
+      516,
+      779
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.15899308025836945,
+    "solution_hashes": [
+      "2f05fc56",
+      "bd62f443",
+      "19d0051d",
+      "b4613e4d",
+      "25d215a3"
+    ],
+    "solution_lengths": [
+      1363,
+      529,
+      713,
+      542,
+      674
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.1365348994731903,
+    "solution_hashes": [
+      "4e9a91fd",
+      "931dfe8f",
+      "441bf0d3",
+      "0fe9a6ac",
+      "4c2843b5"
+    ],
+    "solution_lengths": [
+      1403,
+      482,
+      565,
+      478,
+      549
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.13243061304092407,
+    "solution_hashes": [
+      "568a243d",
+      "ddeb8ce9",
+      "714cebd9",
+      "9db121df",
+      "96a47990"
+    ],
+    "solution_lengths": [
+      1362,
+      488,
+      512,
+      662,
+      669
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.1458025872707367,
+    "solution_hashes": [
+      "2ebc8d6e",
+      "e2881fa9",
+      "53b42e23",
+      "30209049",
+      "eebded28"
+    ],
+    "solution_lengths": [
+      1479,
+      820,
+      504,
+      665,
+      505
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.13281364738941193,
+    "solution_hashes": [
+      "994371f5",
+      "ac911e0a",
+      "e3a6358d",
+      "73901975",
+      "56824edd"
+    ],
+    "solution_lengths": [
+      1411,
+      688,
+      563,
+      614,
+      514
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "star",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.18051424622535706,
+    "solution_hashes": [
+      "8a48d4ee",
+      "756a1e92",
+      "a9a08239",
+      "dbd3dfb1",
+      "d63e478a"
+    ],
+    "solution_lengths": [
+      1394,
+      678,
+      487,
+      490,
+      654
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.2483709305524826,
+    "solution_hashes": [
+      "a6c8e947",
+      "44af94d4",
+      "e248130a",
+      "65957b84",
+      "7b4c6785"
+    ],
+    "solution_lengths": [
+      1460,
+      828,
+      1110,
+      1402,
+      927
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.2746768593788147,
+    "solution_hashes": [
+      "fb0a30d9",
+      "8ee4a0ab",
+      "08dfe38d",
+      "b33e9705",
+      "1f4a07f5"
+    ],
+    "solution_lengths": [
+      1364,
+      711,
+      639,
+      1851,
+      952
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.2679411470890045,
+    "solution_hashes": [
+      "a5390ac8",
+      "29da7d31",
+      "ef635025",
+      "c461b1c5",
+      "d7e9102e"
+    ],
+    "solution_lengths": [
+      1444,
+      844,
+      1699,
+      1940,
+      954
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.21788883209228516,
+    "solution_hashes": [
+      "8fd079c5",
+      "7875cdb2",
+      "b8688e5a",
+      "44c3a348",
+      "0c19df85"
+    ],
+    "solution_lengths": [
+      1579,
+      481,
+      988,
+      1290,
+      840
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.21953746676445007,
+    "solution_hashes": [
+      "6e6cd34b",
+      "72b8560a",
+      "5b9d4500",
+      "62e64ac9",
+      "2881fbf1"
+    ],
+    "solution_lengths": [
+      1538,
+      666,
+      1109,
+      1355,
+      1033
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.24086999893188477,
+    "solution_hashes": [
+      "c295717a",
+      "1c4e6e6c",
+      "dd8bb3d5",
+      "a04eb95e",
+      "28ad9913"
+    ],
+    "solution_lengths": [
+      1589,
+      631,
+      539,
+      1554,
+      1471
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.28204748034477234,
+    "solution_hashes": [
+      "b6a18d77",
+      "5cde019a",
+      "4c5cde3e",
+      "da3d0916",
+      "74c43d65"
+    ],
+    "solution_lengths": [
+      1378,
+      707,
+      1790,
+      1263,
+      894
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.26572084426879883,
+    "solution_hashes": [
+      "e8d1e9ca",
+      "22a7c5b1",
+      "c01121a0",
+      "b7faf4ba",
+      "83df18cf"
+    ],
+    "solution_lengths": [
+      1319,
+      522,
+      1415,
+      661,
+      645
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.199619859457016,
+    "solution_hashes": [
+      "e8c0ae89",
+      "6c4e70fa",
+      "55c9c2e2",
+      "d5a707e8",
+      "ff61f1be"
+    ],
+    "solution_lengths": [
+      1632,
+      757,
+      927,
+      1178,
+      854
+    ]
+  },
+  {
+    "task": "kth_largest",
+    "topology": "fully_connected",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.22831182181835175,
+    "solution_hashes": [
+      "5c6eb7ba",
+      "9b37da09",
+      "9fbaf24a",
+      "c1563960",
+      "565c72d6"
+    ],
+    "solution_lengths": [
+      1362,
+      525,
+      986,
+      1701,
+      860
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.02688099816441536,
+    "solution_hashes": [
+      "87db5318",
+      "7f005647",
+      "09eee47e",
+      "e46cd298",
+      "71425a66"
+    ],
+    "solution_lengths": [
+      822,
+      870,
+      775,
+      980,
+      786
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.027783537283539772,
+    "solution_hashes": [
+      "70d199be",
+      "d1cedb65",
+      "f01da0a0",
+      "233f2e3e",
+      "29e4bae0"
+    ],
+    "solution_lengths": [
+      918,
+      927,
+      876,
+      999,
+      844
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.03282172605395317,
+    "solution_hashes": [
+      "9e1b0dd1",
+      "3dfb1a75",
+      "47c26f47",
+      "afc4ca89",
+      "ec06125c"
+    ],
+    "solution_lengths": [
+      791,
+      899,
+      856,
+      862,
+      909
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.037458114326000214,
+    "solution_hashes": [
+      "54a0b088",
+      "b309c5ed",
+      "2512f869",
+      "704bfd82",
+      "a68a1bf1"
+    ],
+    "solution_lengths": [
+      796,
+      794,
+      909,
+      967,
+      878
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.052747439593076706,
+    "solution_hashes": [
+      "3fa2c0e4",
+      "0ab4d1aa",
+      "8cb5bfa4",
+      "103c22e4",
+      "41e46f36"
+    ],
+    "solution_lengths": [
+      951,
+      758,
+      828,
+      969,
+      1323
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.03230740875005722,
+    "solution_hashes": [
+      "f3201a8e",
+      "4b7d5c85",
+      "cd7d73f2",
+      "ed44a237",
+      "f6d1cb6d"
+    ],
+    "solution_lengths": [
+      920,
+      850,
+      859,
+      807,
+      941
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.03014501929283142,
+    "solution_hashes": [
+      "81751e00",
+      "1cfecf72",
+      "b4daf85b",
+      "f2313c25",
+      "c42cdfad"
+    ],
+    "solution_lengths": [
+      872,
+      875,
+      941,
+      771,
+      846
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.03466051071882248,
+    "solution_hashes": [
+      "52881e86",
+      "d55e4850",
+      "49ad2c01",
+      "84315081",
+      "6e444d8c"
+    ],
+    "solution_lengths": [
+      943,
+      866,
+      870,
+      877,
+      936
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.03241130709648132,
+    "solution_hashes": [
+      "01a1c1fd",
+      "4ed90d53",
+      "8d2ab399",
+      "eb3cd3f6",
+      "89304e6d"
+    ],
+    "solution_lengths": [
+      949,
+      829,
+      875,
+      804,
+      821
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "none",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.029911160469055176,
+    "solution_hashes": [
+      "c5abffe6",
+      "264f6e66",
+      "e5686fd7",
+      "57c1fde0",
+      "73d6d66c"
+    ],
+    "solution_lengths": [
+      861,
+      982,
+      829,
+      827,
+      892
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.07243896275758743,
+    "solution_hashes": [
+      "445720fe",
+      "1ea999d3",
+      "4d6910cf",
+      "e86243a7",
+      "cf868263"
+    ],
+    "solution_lengths": [
+      828,
+      906,
+      777,
+      729,
+      800
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.09887102246284485,
+    "solution_hashes": [
+      "fcb3ea4e",
+      "120a3c82",
+      "632fa875",
+      "7301f2ca",
+      "80b66d3c"
+    ],
+    "solution_lengths": [
+      691,
+      1107,
+      825,
+      949,
+      849
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.07759179174900055,
+    "solution_hashes": [
+      "98289f9d",
+      "b77b528e",
+      "9439b155",
+      "992aebb5",
+      "ed91f6d4"
+    ],
+    "solution_lengths": [
+      857,
+      1044,
+      888,
+      1002,
+      876
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.0827074944972992,
+    "solution_hashes": [
+      "aac417a4",
+      "5f8963ff",
+      "f6e45c7c",
+      "caafc347",
+      "0a839d4f"
+    ],
+    "solution_lengths": [
+      856,
+      960,
+      901,
+      1236,
+      892
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.07259999215602875,
+    "solution_hashes": [
+      "fc4eff50",
+      "e6fc12eb",
+      "2d4db3a2",
+      "8942322e",
+      "e99d94b0"
+    ],
+    "solution_lengths": [
+      840,
+      1165,
+      961,
+      1108,
+      935
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.12232992798089981,
+    "solution_hashes": [
+      "be795caa",
+      "33d6add3",
+      "2b92cf98",
+      "ba047072",
+      "9ca9d096"
+    ],
+    "solution_lengths": [
+      847,
+      873,
+      851,
+      1041,
+      823
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.08111780136823654,
+    "solution_hashes": [
+      "e9ceb514",
+      "661f70a5",
+      "830f3e8b",
+      "76ae53a8",
+      "cb959800"
+    ],
+    "solution_lengths": [
+      863,
+      1322,
+      910,
+      1229,
+      866
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.16544458270072937,
+    "solution_hashes": [
+      "08bd3a39",
+      "b3794f15",
+      "1b7c550c",
+      "ea5dc389",
+      "ecaff2aa"
+    ],
+    "solution_lengths": [
+      840,
+      1013,
+      824,
+      1111,
+      853
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.08546589314937592,
+    "solution_hashes": [
+      "f95016e3",
+      "a5a6380b",
+      "cd7cbd30",
+      "04550929",
+      "a2f79ed3"
+    ],
+    "solution_lengths": [
+      879,
+      922,
+      1012,
+      1453,
+      936
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "ring",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.11722825467586517,
+    "solution_hashes": [
+      "036a8fd1",
+      "5b38b196",
+      "57528b50",
+      "aac2b5dc",
+      "ce786f25"
+    ],
+    "solution_lengths": [
+      797,
+      870,
+      805,
+      695,
+      804
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.08242659270763397,
+    "solution_hashes": [
+      "5c90ee29",
+      "cc1203b2",
+      "faf20414",
+      "31650970",
+      "5c88fd8a"
+    ],
+    "solution_lengths": [
+      843,
+      1250,
+      1155,
+      1292,
+      907
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.07877167314291,
+    "solution_hashes": [
+      "bd17254c",
+      "80d4c4c5",
+      "c3f88f11",
+      "974f27e7",
+      "29a852b5"
+    ],
+    "solution_lengths": [
+      900,
+      1084,
+      1257,
+      1324,
+      932
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.06816855072975159,
+    "solution_hashes": [
+      "da59e2ba",
+      "83f8cc6d",
+      "1d999fe2",
+      "85401af1",
+      "ad48f91e"
+    ],
+    "solution_lengths": [
+      875,
+      1105,
+      1104,
+      868,
+      1161
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.0760088711977005,
+    "solution_hashes": [
+      "dd31176e",
+      "1260adf5",
+      "29237967",
+      "88e1b96e",
+      "fbede426"
+    ],
+    "solution_lengths": [
+      777,
+      966,
+      1079,
+      1299,
+      863
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.15334296226501465,
+    "solution_hashes": [
+      "f603783e",
+      "b7325df2",
+      "7c7ffaa6",
+      "efd334f1",
+      "69707685"
+    ],
+    "solution_lengths": [
+      868,
+      934,
+      1226,
+      1016,
+      1079
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.11301591247320175,
+    "solution_hashes": [
+      "821766d3",
+      "d01337ac",
+      "e7db37ec",
+      "d0f79e93",
+      "f19ce87e"
+    ],
+    "solution_lengths": [
+      880,
+      1098,
+      1092,
+      1468,
+      1521
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.1137300580739975,
+    "solution_hashes": [
+      "c4baa04c",
+      "e57fee66",
+      "671eaa26",
+      "c00983d2",
+      "8ae790f9"
+    ],
+    "solution_lengths": [
+      840,
+      1254,
+      1014,
+      1483,
+      866
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.10392989963293076,
+    "solution_hashes": [
+      "ca24b7a1",
+      "7b9f10ce",
+      "d869bf88",
+      "0695957d",
+      "b385f4c6"
+    ],
+    "solution_lengths": [
+      812,
+      1132,
+      1261,
+      877,
+      863
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.1347530633211136,
+    "solution_hashes": [
+      "1fe976c1",
+      "df0d0f40",
+      "8e136c6f",
+      "d6dcf731",
+      "51416588"
+    ],
+    "solution_lengths": [
+      881,
+      1219,
+      853,
+      960,
+      946
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "star",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.1283034086227417,
+    "solution_hashes": [
+      "cc782b80",
+      "07a87f12",
+      "8da2cb9e",
+      "8d00b828",
+      "a0bcffcd"
+    ],
+    "solution_lengths": [
+      843,
+      1174,
+      947,
+      915,
+      995
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 0,
+    "n_agents": 5,
+    "diversity": 0.16010861098766327,
+    "solution_hashes": [
+      "e5878e83",
+      "4bfdd696",
+      "15699a17",
+      "2e64ab8e",
+      "ddab018e"
+    ],
+    "solution_lengths": [
+      886,
+      934,
+      924,
+      1155,
+      949
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 1,
+    "n_agents": 5,
+    "diversity": 0.1154247298836708,
+    "solution_hashes": [
+      "169111da",
+      "50f3dde8",
+      "6535a82e",
+      "2c950118",
+      "8f334db4"
+    ],
+    "solution_lengths": [
+      852,
+      820,
+      871,
+      1225,
+      965
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 2,
+    "n_agents": 5,
+    "diversity": 0.14662761986255646,
+    "solution_hashes": [
+      "05d4fa7c",
+      "7decd0a0",
+      "1e70d961",
+      "4fe6e7fa",
+      "93736e19"
+    ],
+    "solution_lengths": [
+      915,
+      1213,
+      951,
+      1291,
+      1066
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 3,
+    "n_agents": 5,
+    "diversity": 0.076441690325737,
+    "solution_hashes": [
+      "a69200fc",
+      "0cd47038",
+      "468e92a1",
+      "efc1ac7d",
+      "6b09a221"
+    ],
+    "solution_lengths": [
+      894,
+      1007,
+      1184,
+      809,
+      1098
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 4,
+    "n_agents": 5,
+    "diversity": 0.12983478605747223,
+    "solution_hashes": [
+      "c77319e1",
+      "9b43df04",
+      "1649f6ae",
+      "7f1b9ded",
+      "b68dd849"
+    ],
+    "solution_lengths": [
+      844,
+      1020,
+      789,
+      955,
+      1045
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 5,
+    "n_agents": 5,
+    "diversity": 0.12619392573833466,
+    "solution_hashes": [
+      "9e1b9a08",
+      "b0a84f5f",
+      "85bcae32",
+      "a94cd494",
+      "ac0a321a"
+    ],
+    "solution_lengths": [
+      792,
+      783,
+      1327,
+      872,
+      887
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 6,
+    "n_agents": 5,
+    "diversity": 0.1523585319519043,
+    "solution_hashes": [
+      "a2faf9a3",
+      "d7ee97bb",
+      "2a42c5eb",
+      "8861dd95",
+      "b57a69b5"
+    ],
+    "solution_lengths": [
+      828,
+      992,
+      753,
+      1154,
+      1250
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 7,
+    "n_agents": 5,
+    "diversity": 0.11334073543548584,
+    "solution_hashes": [
+      "e9eed044",
+      "be31bbfd",
+      "3b3fc25b",
+      "6830397b",
+      "73ef7538"
+    ],
+    "solution_lengths": [
+      861,
+      1284,
+      832,
+      934,
+      881
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 8,
+    "n_agents": 5,
+    "diversity": 0.12058863788843155,
+    "solution_hashes": [
+      "03c268e5",
+      "dd2cfa75",
+      "65fe5f89",
+      "8a8dbfc4",
+      "634ddd86"
+    ],
+    "solution_lengths": [
+      854,
+      1301,
+      917,
+      813,
+      1495
+    ]
+  },
+  {
+    "task": "rate_limiter",
+    "topology": "fully_connected",
+    "seed": 9,
+    "n_agents": 5,
+    "diversity": 0.14545944333076477,
+    "solution_hashes": [
+      "e10b0b32",
+      "14c02464",
+      "36d11a65",
+      "ccf43840",
+      "e310989c"
+    ],
+    "solution_lengths": [
+      912,
+      1149,
+      927,
+      834,
+      1084
+    ]
+  }
+]
